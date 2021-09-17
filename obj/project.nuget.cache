@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Euzoh0VNo9meyXLGtqR74rCsVSD9DtiJvWqYwu2DKOCBaKLXpw4DYebqw9Oxn6eUCld71dWqQewx+ile581pyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\source\\repos\\MyFirstWebApi\\MyFirstWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
